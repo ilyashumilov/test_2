@@ -31,7 +31,7 @@ class main:
 
 
 if __name__ == '__main__':
-    main('-P4CMAN').friend_request()
+    main('username').friend_request()
 
 
 
