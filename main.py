@@ -31,7 +31,7 @@ class main:
 
 
 if __name__ == '__main__':
-    main('username').friend_request()
+    main('nickname').friend_request()
 
 
 
