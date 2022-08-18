@@ -29,7 +29,9 @@ class main:
 
         return r
 
-print(main('Jarry').friend_request())
+
+if __name__ == '__main__':
+    main('-P4CMAN').friend_request()
 
 
 
